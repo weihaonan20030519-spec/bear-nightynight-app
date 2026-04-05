@@ -35,7 +35,7 @@ const plushies: Plushie[] = [
 
 const STORAGE_KEY = "bear-flip-counts";
 const CARD_COUNT = plushies.length;
-const FLIP_DURATION = 460;
+const FLIP_DURATION = 720;
 
 const mediumStars = [
   { left: "10%", top: "14%", delay: "0.4s", duration: "8.8s" },
