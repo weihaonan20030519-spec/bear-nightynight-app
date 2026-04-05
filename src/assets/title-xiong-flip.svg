@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 200" role="img" aria-labelledby="title-art-label">
+  <title id="title-art-label">小熊翻牌器</title>
+  <defs>
+    <style>
+      @font-face {
+        font-family: "RuanMengTiTitle";
+        src: url("./fonts/RuanMengTi-2.ttf") format("truetype");
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+    </style>
+    <filter id="title-soft-glow" x="-25%" y="-35%" width="150%" height="180%">
+      <feGaussianBlur stdDeviation="6.5" />
+    </filter>
+  </defs>
+
+  <g
+    fill="#d8d0ed"
+    opacity="0.9"
+    filter="url(#title-soft-glow)"
+    font-family="RuanMengTiTitle, SF Pro Rounded, PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif"
+    font-size="126"
+    font-weight="400"
+  >
+    <text x="128" y="138" text-anchor="middle" transform="rotate(-1.6 128 138) scale(1.01 1)">小</text>
+    <text x="242" y="138" text-anchor="middle" transform="rotate(-0.5 242 138) scale(1.02 1)">熊</text>
+    <text x="398" y="137" text-anchor="middle" transform="rotate(0.35 398 137)">翻</text>
+    <text x="526" y="138" text-anchor="middle" transform="rotate(-0.3 526 138) scale(1.04 1)">牌</text>
+    <text x="680" y="138" text-anchor="middle" transform="rotate(-0.8 680 138) scale(1.01 1)">器</text>
+  </g>
+
+  <g
+    fill="#6B5A86"
+    font-family="RuanMengTiTitle, SF Pro Rounded, PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif"
+    font-size="126"
+    font-weight="400"
+  >
+    <text x="128" y="138" text-anchor="middle" transform="rotate(-1.6 128 138) scale(1.01 1)">小</text>
+    <text x="242" y="138" text-anchor="middle" transform="rotate(-0.5 242 138) scale(1.02 1)">熊</text>
+    <text x="398" y="137" text-anchor="middle" transform="rotate(0.35 398 137)">翻</text>
+    <text x="526" y="138" text-anchor="middle" transform="rotate(-0.3 526 138) scale(1.04 1)">牌</text>
+    <text x="680" y="138" text-anchor="middle" transform="rotate(-0.8 680 138) scale(1.01 1)">器</text>
+  </g>
+</svg>
